@@ -1,16 +1,23 @@
 # 14848-HW2
 
 Container 1
+
   Requirement 1
+  
     DockerHub Repository - https://hub.docker.com/repository/docker/rvimba/14848-a2
+    
     DockerHub image (in repo) - https://hub.docker.com/layers/169455673/rvimba/14848-a2/v6/images/sha256-a35a8e1181ba710529e4170f67336ed0bd35fd52c731f085b836a0115e5953fa?context=repo
 
   Requirement 2
+  
     Screenshot of command to run my container on GCP - gcp-run-cmd.png
+    
     Screenshot of container output on GCP - gcp-log-msg.png 
 
   Requirement 3
+  
     Dockerfile source code - Dockerfile
+    
     Hello World source code - hello.py
   
 Container 2
