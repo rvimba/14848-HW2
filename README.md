@@ -21,15 +21,21 @@ Container 1
     Hello World source code - hello.py
   
 Container 2
+
   Requirement 1
+  
     Screenshot of command to run docker imager for jupyter notebook - jupyter-terminal.png
+    
     Screenshot of jupyter notebook running in the browser - jupyter-browser.png
     
 Extra Credit
+
   Because of the port number misalignment discussed in Lecture 6 Containerization Demo, it looks like my application has unexpected errors, but because of how the app was designed, these errors are accounted for and I have the log output showing the "Hello World" output from the container
   
   Screenshot of running kubernetes cluster - kubernetes-cluster.png
+  
   Screenshot of my docker container deployed to the cluster - kubernetes-app-deploy.png
+  
   Screenshot of my docker container output log - kubernetes-app-log.png
   
 
